@@ -1,0 +1,28 @@
+.tagline {
+    height : "90px";
+    margin : "5px auto";
+    background-color: pink;
+    text-align: center;
+    padding: 2px;
+}
+
+.Header{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.brandName{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.links{
+    display: flex;
+}
+
+.text-link{
+    margin: 10px;
+    cursor: pointer;
+}
